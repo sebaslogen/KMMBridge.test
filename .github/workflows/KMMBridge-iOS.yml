@@ -1,4 +1,4 @@
-name: iOS Publish
+name: iOS Publish Sebas Hack 0.1.0-alpha01
 on:
   workflow_dispatch:
 #  push:
